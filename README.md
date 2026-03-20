@@ -37,6 +37,18 @@ The complete research paper is included in this repository.
 * Real-world datasets
 * Advanced feature extraction
 
+## 🌐 Live Demo (Local)
+
+Run the app using:
+
+```bash
+pip install streamlit
+streamlit run app.py
+```
+
+Upload an image to check if it contains hidden data.
+
+
 ## 👨‍💻 Author
 
 Appalla Sai Shivanand
