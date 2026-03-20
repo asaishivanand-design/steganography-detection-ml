@@ -48,6 +48,28 @@ streamlit run app.py
 
 Upload an image to check if it contains hidden data.
 
+## 📁 Project Structure
+
+├── app.py  
+├── steganography_detection_ml.ipynb  
+├── steganography_research_paper.docx  
+├── graph.png  
+└── README.md  
+
+## 🌍 Real-World Applications
+
+- Cybersecurity: Detect hidden malicious data in images  
+- Digital Forensics: Identify covert communication  
+- Social Media Monitoring: Prevent misuse of image sharing platforms
+
+## ⚠️ Limitations
+
+- Uses synthetic dataset (not fully real-world)  
+- Limited feature set  
+- Performance may vary on complex images  
+
+Future work includes deep learning-based approaches.  
+
 
 ## 👨‍💻 Author
 
